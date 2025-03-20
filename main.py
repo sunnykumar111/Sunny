@@ -23,4 +23,4 @@ def send_message():
 if __name__ == "__main__":
     while True:
         send_message()
-        time.sleep(3)  # Wait for 3 seconds before sending the next message
+        time.sleep(120)  # Wait for 120 seconds before sending the next message
